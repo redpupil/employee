@@ -1,0 +1,31 @@
+[
+	{
+  "id": "1",
+	"name": "aaaaa, aaa",
+	"gebursdatum": "19.05.1970",
+	"geburstort": "Jena",
+	"muttersprache": "Deutsch",
+	"email": "aaaa@dako.de"
+	},
+    
+    {
+  "id": "2",
+	"name": "aaaaa, aaa",
+	"gebursdatum": "19.05.1970",
+	"geburstort": "Jena",
+	"muttersprache": "Deutsch",
+	"email": "aaaa@dako.de"
+	},
+    
+    {
+  "id": "3",
+	"name": "aaaaa, aaa",
+	"gebursdatum": "19.05.1970",
+	"geburstort": "Jena",
+	"muttersprache": "Deutsch",
+	"email": "aaaa@dako.de"
+	}
+    
+]
+
+

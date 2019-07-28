@@ -1,0 +1,11 @@
+[
+	
+	{"name": "aaaaa, aaa",
+	"gebursdatum": "19.05.1970",
+	"geburstort": "Jena",
+	"muttersprache": "Deutsch",
+	"email": "aaaa@dako.de",},
+	
+]
+
+

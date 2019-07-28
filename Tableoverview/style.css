@@ -1,0 +1,73 @@
+﻿.top {
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    margin: 5px;
+    margin-bottom: 30px;
+    padding: 10px;
+    color: white;
+    width: 130px;
+    background-color: #1752b2;
+    border-radius: 8px;
+    
+}
+
+table:not(.worker):not(.contact):not(.address) {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table:not(.worker):not(.contact):not(.address) td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    text-align: center;
+    border-left: 0px none;
+    border-right: 0px none;
+}
+
+table:not(.worker):not(.contact):not(.address) th {
+    border: 1px solid;
+    color: white;
+    background-color: #1752b2;
+    height: 30px;
+    text-align: center;
+}
+
+table:not(.worker):not(.contact):not(.address) tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+img {
+    height: 20px;
+    width: 20px;
+}
+
+.bottom {
+    background-color: #1752b2;
+    height: 8px;
+    color: white;
+    text-align: left;
+    font-size: 12px;
+}
+
+/*.rownummer {
+    counter-increment: rowNumber;
+}*/
+
+table:not(.worker):not(.contact):not(.address) {
+    counter-reset: rowNumber;
+}
+
+table:not(.worker):not(.contact):not(.address) tr:not(:first-child) {
+    counter-increment: rowNumber;
+}
+
+table:not(.worker):not(.contact):not(.address) tr td:first-child::before {
+    content: counter(rowNumber);
+    min-width: 1em;
+    margin-right: 0.5em;
+}

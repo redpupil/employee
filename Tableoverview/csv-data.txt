@@ -1,0 +1,16 @@
+0;first;aaaa;01635478956;19.05.1970;Jena;German;32434;54665;public@dako;privat@dako.de;Hellstr;Jena;04710
+1;second;aaaa;01635478956;19.05.1970;Jena;German;32434;54665;public@dako;privat@dako.de;Hellstr;Jena;04710
+2;third;aaaa;01635478956;19.05.1970;Jena;German;32434;54665;public@dako;privat@dako.de;Hellstr;Jena;04710
+3;fourth;aaaa;01635478956;19.05.1970;Jena;German;32434;54665;public@dako;privat@dako.de;Hellstr;Jena;04710
+4;fifth;aaaa;01635478956;19.05.1970;Jena;German;32434;54665;public@dako;privat@dako.de;Hellstr;Jena;04710
+5;sixth;aaaa;01635478956;19.05.1970;Jena;German;32434;54665;public@dako;privat@dako.de;Hellstr;Jena;04710
+
+1;first;aaaa;01635478956;19.05.1970;Jena;German;32434;54665;public@dako;privat@dako.de;Hellstr;Jena;04710
+2;second;aaaa;01635478956;19.05.1970;Jena;German;32434;54665;public@dako;privat@dako.de;Hellstr;Jena;04710
+3;third;aaaa;01635478956;19.05.1970;Jena;German;32434;54665;public@dako;privat@dako.de;Hellstr;Jena;04710
+4;fourth;aaaa;01635478956;19.05.1970;Jena;German;32434;54665;public@dako;privat@dako.de;Hellstr;Jena;04710
+5;fifth;aaaa;01635478956;19.05.1970;Jena;German;32434;54665;public@dako;privat@dako.de;Hellstr;Jena;04710
+6;sixth;aaaa;01635478956;19.05.1970;Jena;German;32434;54665;public@dako;privat@dako.de;Hellstr;Jena;04710
+
+
+

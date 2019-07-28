@@ -1,0 +1,142 @@
+﻿/* input[type=text],
+select {
+    background-color: lightgray;
+} */
+
+#main {
+    padding-bottom: 150px;
+    border: 1px solid lightgrey;
+}
+
+.tab {
+    margin-bottom: 15px;
+}
+
+.uber {
+    width: 350px;
+    height: 25px;
+    color: orange;
+    text-align: left;
+    background-color: white;
+}
+
+.tab2 {
+    width: 350px;
+    height: 25px;
+    background-color: gray;
+    text-align: left;
+    color: white;
+}
+
+.worker {
+    width: 100%;
+}
+
+#WorkerTable, #ContactTable, #AddressTable {
+
+    width: 100%;
+}
+
+table:not(.employee) tbody td {
+    padding: 2px 10px;
+}
+
+table:not(.employee) tbody td:first-child {
+    width: 30%;
+}
+
+table:not(.employee) tbody td:last-child {
+    width: 70%;
+}
+
+table:not(.employee) tbody input[type=text] {
+    width: 100%;
+}
+
+input[type=email] {
+    width: 100%;
+    /* background-color: lightgray; */
+}
+
+input[type=date] {
+    width: 100%;
+}
+
+thead:not(.employee) {
+    
+    color: white;
+    background-color: #051c42;
+    height: 45px;
+    font-size: 12px;
+    text-align: left;
+}
+
+.mitarbeiter {
+    border: 1.5px solid;
+    border-color: #0a2e68;
+}
+
+select {
+    width: 100%;
+    align-content: inherit;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.container > div {
+    margin: 15px;
+    flex: 1;
+}
+
+.kontakt {
+    border: 2px solid;
+    border-color: #0a2e68;
+}
+
+.anschrift {
+    border: 2px solid;
+    border-color: #0a2e68;
+}
+
+.back-button {
+    padding-top: 50px;
+}
+
+/*#mit-div, kon-div, #ansch-div {
+    display: inline-block;
+}*/
+
+.submission {
+    margin-top: 40px;
+    height: 100px;
+    /*display: flex;
+    justify-content: flex-end;
+    flex-direction: column;*/
+    clear: both;
+}
+
+.submit-btn {
+    color: white;
+    background-color: darkblue;
+    border-radius: 8px;
+    width: 90px;
+    height: 30px;
+}
+
+.prompt {
+    color: red;
+}
+
+#error-window {
+    color: red;
+    font-size: 18px;
+    margin-top: 35px;
+}
+
+#success {
+    color: green;
+}
